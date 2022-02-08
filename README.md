@@ -5,7 +5,7 @@
 <br />
 <div align="center">
     
-  🌱 &nbsp;I’m currently learning React, JS, 
+  🌱 &nbsp;I’m currently learning React, JS
   
   🧑🏻‍💻 &nbsp;I regularly write articles on []()
   
