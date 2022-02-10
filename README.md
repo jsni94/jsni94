@@ -7,7 +7,7 @@
     
   🌱 &nbsp;I’m currently learning React, JS
   
-  🧑🏻‍💻 &nbsp;I regularly write articles on []()
+  🧑🏻‍💻 &nbsp;I write articles on [Here](https://jsni94.github.io/)
   
   📄 &nbsp;Know about my experiences [Resume](https://excellent-beef-766.notion.site/5dea470d2ce14a2c9f35e68e3d5f2427)
   
